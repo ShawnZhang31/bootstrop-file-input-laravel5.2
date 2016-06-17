@@ -1,0 +1,2 @@
+wget https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.6.21/xampp-linux-x64-5.6.21-0-installer.run
+https://phphub.org/topics/497
